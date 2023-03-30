@@ -33,7 +33,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkpvZ
 
 ###
 
-get http://localhost:3000/tweets/2/
+get http://localhost:3000/tweets/8/
 Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkpvZUJpZGVuIiwiaWF0IjoxNjgwMDY0NjE3fQ.TMSwOgcZzB9RPchi4jq8YGxcQU87AiWxxMqNyduayYs
 
 ###
